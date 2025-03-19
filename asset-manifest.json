@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Serhir_Abdennour_8_Portfolio_032025/static/css/main.f4724c2e.css",
-    "main.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.1578d6aa.js",
+    "main.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.92b43ceb.js",
     "static/js/415.4d6acbeb.chunk.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/787.1ed0c42c.chunk.js",
     "static/media/kasa.png": "/Serhir_Abdennour_8_Portfolio_032025/static/media/kasa.5fead20951d9ee6e4e83.png",
@@ -16,12 +16,12 @@
     "index.html": "/Serhir_Abdennour_8_Portfolio_032025/index.html",
     "static/media/pre.svg": "/Serhir_Abdennour_8_Portfolio_032025/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.f4724c2e.css.map": "/Serhir_Abdennour_8_Portfolio_032025/static/css/main.f4724c2e.css.map",
-    "main.1578d6aa.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.1578d6aa.js.map",
+    "main.92b43ceb.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.92b43ceb.js.map",
     "415.4d6acbeb.chunk.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4724c2e.css",
-    "static/js/main.1578d6aa.js"
+    "static/js/main.92b43ceb.js"
   ]
 }
