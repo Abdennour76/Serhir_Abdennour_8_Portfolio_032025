@@ -16,7 +16,7 @@ function AboutCard() {
             J'ai obtenue un Bac +2 en développement web chez OpenClassrooms.
             <br />
             <br />
-            En dehors de la programmation, quelques autres passe-temps que j'aime sont :
+            En dehors de la programmation, quelques autres passe-temps que j'aime :
           </p>
           <ul>
             <li className="about-activity">
