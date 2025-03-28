@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Serhir_Abdennour_8_Portfolio_032025/static/css/main.f4724c2e.css",
-    "main.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.5dd1fc07.js",
+    "main.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.a4658de3.js",
     "static/js/415.4d6acbeb.chunk.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Serhir_Abdennour_8_Portfolio_032025/static/js/787.1ed0c42c.chunk.js",
     "static/media/kasa.png": "/Serhir_Abdennour_8_Portfolio_032025/static/media/kasa.5fead20951d9ee6e4e83.png",
@@ -10,18 +10,18 @@
     "static/media/booki.png": "/Serhir_Abdennour_8_Portfolio_032025/static/media/booki.70b1706b70ecbd0698c7.png",
     "static/media/home-main.svg": "/Serhir_Abdennour_8_Portfolio_032025/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Serhir_Abdennour_8_Portfolio_032025/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/CV_2025-03-28_Abdennour_Serhir.pdf": "/Serhir_Abdennour_8_Portfolio_032025/static/media/CV_2025-03-28_Abdennour_Serhir.9d25f3ebb4c6f996fb87.pdf",
+    "static/media/CV_2025-03-28_Abdennour_Serhir.pdf": "/Serhir_Abdennour_8_Portfolio_032025/static/media/CV_2025-03-28_Abdennour_Serhir.4028db419620a3cea458.pdf",
     "static/media/home-bg.jpg": "/Serhir_Abdennour_8_Portfolio_032025/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Serhir_Abdennour_8_Portfolio_032025/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "index.html": "/Serhir_Abdennour_8_Portfolio_032025/index.html",
     "static/media/pre.svg": "/Serhir_Abdennour_8_Portfolio_032025/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.f4724c2e.css.map": "/Serhir_Abdennour_8_Portfolio_032025/static/css/main.f4724c2e.css.map",
-    "main.5dd1fc07.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.5dd1fc07.js.map",
+    "main.a4658de3.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/main.a4658de3.js.map",
     "415.4d6acbeb.chunk.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Serhir_Abdennour_8_Portfolio_032025/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4724c2e.css",
-    "static/js/main.5dd1fc07.js"
+    "static/js/main.a4658de3.js"
   ]
 }
