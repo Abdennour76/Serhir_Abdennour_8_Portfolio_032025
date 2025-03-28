@@ -17,7 +17,7 @@ function Home2() {
               A <span className="purple"> PROPOS </span> DE MOI
             </h1>
             <p className="home-about-body">
-            Développeur web passionné, j’ai suivi une formation Bac +2 en développement web chez OpenClassrooms
+            J’ai récemment découvert le développement web… et ça a été le coup de foudre : chaque ligne de code me donne envie d’en apprendre encore plus ! 💻✨
               <br />
               <br />j’ai acquis des compétences en 
               <i>
